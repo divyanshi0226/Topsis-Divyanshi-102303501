@@ -1,12 +1,14 @@
 
 
-**Author:** Divyanshi  
-**Roll NO.** 102303501
-**Course:** Predictive Analytics using Statistics
-**Method Used:** TOPSIS (MCDM)
+
 
 
 # TOPSIS Fund Ranking Program
+
+#**Author:** Divyanshi  
+#**Roll NO.** 102303501
+#**Course:** Predictive Analytics using Statistics
+#**Method Used:** TOPSIS (MCDM)
 
 A Python-based implementation of the TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) method to rank multiple funds based on several performance parameters.
 
